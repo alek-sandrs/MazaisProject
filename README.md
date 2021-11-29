@@ -3,9 +3,9 @@ This project was made by Me(alek-sandrs) Project name: Mind Game(Quiz Game)
 # Projekta nosaukums
 
 ## Apraksts
-	Prokets, jeb spēle kur lielolājam vajag atbildīt uz (5,10 vai 15 jautājumiem)
-    Lietotājs izvēle grutības līmeni
-    Būs mix jautājumi vai Lietotājs izvēlas tēmu(Matemātiska, Programmēšana, Ģeografiska, Vēsture, Sports )
+	Prokekts, jeb spēle kur lielolājam vajag atbildīt uz (10  jautājumiem)
+    Lietotājs nuspieda Enter lai sākt darbību
+    Būs 10 jautājumi un beigās rezultāts
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
